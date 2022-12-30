@@ -4,4 +4,4 @@
 
 ## To run program
 
-`python -u "path_to_the_directory\pose.py`
+`python -u "path_to_the_directory\pose.py"`
