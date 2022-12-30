@@ -1,6 +1,6 @@
 # Run this line in command prompt to instal all packages
 
-`pip freeze > requirements.txt`
+`pip install -r requirements.txt`
 
 ## To run program
 
